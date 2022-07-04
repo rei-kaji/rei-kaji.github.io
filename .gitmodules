@@ -1,3 +1,6 @@
 [submodule "Site_Mimic_Training1"]
 	path = Site_Mimic_Training1
 	url = https://github.com/rei-kaji/Site_Mimic_Training1.git
+[submodule "Site-Mimic-Training2"]
+	path = Site-Mimic-Training2
+	url = https://github.com/rei-kaji/Site-Mimic-Training2.git
