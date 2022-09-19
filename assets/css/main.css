@@ -2771,3 +2771,17 @@ header h3 {
     margin-top: 0;
   }
 }
+
+#skills {
+  display: flex;
+  flex-flow: wrap row;
+  justify-content: space-between;
+  gap: 10px;
+  height: 500px;
+}
+
+.skillIcon i {
+  font-size: 110px;
+  margin: 10px;
+  color: white;
+}
